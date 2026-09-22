@@ -1,10 +1,19 @@
 # Pertemuan 04 - Seleksi Multi-Kondisi dan Validasi Input
+## Identitas
 
-**Nama:** Farid Syahputra
-**NIM:** 2225250222
-**Program Studi:** S1 Pendidikan Matematika FKIP Untirta
-**Mata Kuliah:** Algoritma dan Pemrograman
-**Pertemuan:** 04
+| Keterangan        | Data                                  |
+| ----------------- | ------------------------------------- |
+| **Nama**          | Farid Syahputra                       |
+| **NIM**           | 2225250222                            |
+| **Program Studi** | S1 Pendidikan Matematika FKIP Untirta |
+| **Mata Kuliah**   | Algoritma dan Pemrograman             |
+| **Pertemuan**     | 04                                    |
+
+## Deskripsi
+
+Repository ini berisi tugas dan latihan pada **Pertemuan 04 — Validasi** mata kuliah Algoritma dan Pemrograman.
+
+Materi yang dikerjakan berfokus pada penerapan validasi dalam program untuk memastikan data atau input yang diberikan sesuai dengan ketentuan yang telah ditentukan.
 
 ---
 
